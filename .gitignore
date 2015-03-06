@@ -1,2 +1,9 @@
-/.project
-/.settings/
+.project/
+.settings/
+
+*.iml
+.idea
+
+*.swp
+
+target/
